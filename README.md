@@ -31,10 +31,10 @@ We're launching a new application to help search and store gifs (to improve our 
 communication and morale in Slack, of course!).  We'd like you to create a single-page
 application that meets the following requirements:
 
--  The application uses React (https://reactjs.org/).  You may use whatever other packages or frameworks you'd like.
--  The application should use the Giphy api to fetch and display gifs that match a keyword provided by the user.
-   We'll provide an api key you can use.
--  The application should conform to the provided wireframes
+-  The application uses [React](https://reactjs.org/).  You may use whatever other packages or frameworks you'd like.
+-  The application should use the [Giphy api](https://developers.giphy.com/docs/api/) to fetch and display gifs that match a keyword provided by the user.
+   We'll provide an api key you can use, or you can create your own key and app.
+-  The application should conform to the provided [wireframes](#wireframes).
 
 ## Part One (search and display)
 -  The user can search for gifs by typing in the input box and interacting with the 'search' button.  The current search term should remain displayed in the input field as the results are displayed.
