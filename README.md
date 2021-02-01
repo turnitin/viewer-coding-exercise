@@ -59,13 +59,13 @@ application that meets the following requirements:
 
 ## Wireframes
 
-1.  [On Load](https://share.balsamiq.com/c/gHrF3b9mvHZ9MWkVLW7v7f.png)
-2.  [Search Results](https://share.balsamiq.com/c/iBPsMeGPXbK5uPwbFga2JU.png)
-3.  [No Results](https://share.balsamiq.com/c/49gurpZrYakg1a8VUQLG2M.png)
-4.  [Favorite](https://share.balsamiq.com/c/dUKnvFYGywEdaUND74DbB5.png)
-5.  [Reset](https://share.balsamiq.com/c/2G6SVxMWEJSCvLAWYzBqmz.png)
-6.  [New Search](https://share.balsamiq.com/c/xgdBCngD4BK9hAUWkyUqXG.png)
-7.  [Mobile / Small Screen](https://share.balsamiq.com/c/vXSi52U269PrJ5VQ45ZNnp.png)
+1.  [On Load](wireframes/GiphySearch_Mock1_OnLoad.png)
+2.  [Search Results](wireframes/GiphySearch_Mock2_SearchResults.png)
+3.  [No Results](wireframes/GiphySearch_Mock3_NoResults.png)
+4.  [Favorite](wireframes/GiphySearch_Mock4_Favorite.png)
+5.  [Reset](wireframes/GiphySearch_Mock5_Reset.png)
+6.  [New Search](wireframes/GiphySearch_Mock6_NewSearch.png)
+7.  [Mobile / Small Screen](wireframes/GiphySearch_Mock7_Mobile.png)
 
 # Logistics
 
