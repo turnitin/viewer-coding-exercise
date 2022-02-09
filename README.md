@@ -152,3 +152,4 @@ challenge:
 - Chris "Milo" Miles (`cmiles@turnitin.com`)
 - Neil West (`nwest@turnitin.com`)
 - Nelson Wong (`nwong@turnitin.com`)
+- Luis Vasquez (`lvasquez@turnitin.com`)
